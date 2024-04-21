@@ -7,19 +7,21 @@
 <table>
   <tr>
     <th>Order Date</th>
-    <th></th>
+
     <th>Order Details</th>
   </tr>
   {% for order in order_list %}
   <tr>
     <td>{{ order["orderdate"] }}</td>
+
     {% for i in order["details"] %}
-    <td></td>
     <td>{{ i.name }}({{ i.qty }}) = {{ i.subtotal }},</td>
     {% endfor %}
   </tr>
+
+  {% endfor %}
 </table>
-{% endfor %} {% else %}
+{% else %}
 <p>No previous order/s found.</p>
 {% endif %} {% else %}
 <p>Please login to view previous orders.</p>

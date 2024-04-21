@@ -1,72 +1,75 @@
-[{
-  "_id": {
-    "$oid": "6623287762e9b8a3f3117b7d"
+[
+  {
+    "_id": {
+      "$oid": "6623287762e9b8a3f3117b7d"
+    },
+    "username": "chums@example.com",
+    "password": "ateneo",
+    "first_name": "Matthew",
+    "last_name": "Uy"
   },
-  "username": "chums@example.com",
-  "password": "ateneo",
-  "first_name": "Matthew",
-  "last_name": "Uy"
-},
-{
-  "_id": {
-    "$oid": "6623287762e9b8a3f3117b7e"
+
+  {
+    "_id": {
+      "$oid": "6623287762e9b8a3f3117b7e"
+    },
+    "username": "joben@example.com",
+    "password": "Ch@ng3m3!",
+    "first_name": "Joben",
+    "last_name": "Ilagan"
   },
-  "username": "joben@example.com",
-  "password": "Ch@ng3m3!",
-  "first_name": "Joben",
-  "last_name": "Ilagan"
-},
-{
-  "_id": {
-    "$oid": "6623288162e9b8a3f3117b7f"
+  {
+    "_id": {
+      "$oid": "6623288162e9b8a3f3117b7f"
+    },
+    "username": "bong@example.com",
+    "password": "Ch@ng3m3!",
+    "first_name": "Bong",
+    "last_name": "Olpoc"
   },
-  "username": "bong@example.com",
-  "password": "Ch@ng3m3!",
-  "first_name": "Bong",
-  "last_name": "Olpoc"
-},
-{
-  "_id": {
-    "$oid": "6623288162e9b8a3f3117b80"
+  {
+    "_id": {
+      "$oid": "6623288162e9b8a3f3117b80"
+    },
+    "username": "joaqs@example.com",
+    "password": "Ch@ng3m3!",
+    "first_name": "Joaqs",
+    "last_name": "Gonzales"
   },
-  "username": "joaqs@example.com",
-  "password": "Ch@ng3m3!",
-  "first_name": "Joaqs",
-  "last_name": "Gonzales"
-},
-{
-  "_id": {
-    "$oid": "6623288862e9b8a3f3117b81"
+  {
+    "_id": {
+      "$oid": "6623288862e9b8a3f3117b81"
+    },
+    "username": "gihoe@example.com",
+    "password": "Ch@ng3m3!",
+    "first_name": "Gio",
+    "last_name": "Hernandez"
   },
-  "username": "gihoe@example.com",
-  "password": "Ch@ng3m3!",
-  "first_name": "Gio",
-  "last_name": "Hernandez"
-},
-{
-  "_id": {
-    "$oid": "6623288862e9b8a3f3117b82"
+  {
+    "_id": {
+      "$oid": "6623288862e9b8a3f3117b82"
+    },
+    "username": "vic@example.com",
+    "password": "Ch@ng3m3!",
+    "first_name": "Vic",
+    "last_name": "Reventar"
   },
-  "username": "vic@example.com",
-  "password": "Ch@ng3m3!",
-  "first_name": "Vic",
-  "last_name": "Reventar"
-},
-{
-  "_id": {
-    "$oid": "6623289162e9b8a3f3117b83"
+  {
+    "_id": {
+      "$oid": "6623289162e9b8a3f3117b83"
+    },
+    "username": "joe@example.com",
+    "password": "Ch@ng3m3!",
+    "first_name": "Joe",
+    "last_name": "Ilagan"
   },
-  "username": "joe@example.com",
-  "password": "Ch@ng3m3!",
-  "first_name": "Joe",
-  "last_name": "Ilagan"
-},
-{
-  "_id": {
-    "$oid": "6623289162e9b8a3f3117b84"
-  },
-  "username": "eb@example.com",
-  "password": "Ch@ng3m3!",
-  "first_name": "EB",
-  "last_name": "Ilagan"
-}]
+  {
+    "_id": {
+      "$oid": "6623289162e9b8a3f3117b84"
+    },
+    "username": "eb@example.com",
+    "password": "Ch@ng3m3!",
+    "first_name": "EB",
+    "last_name": "Ilagan"
+  }
+]
