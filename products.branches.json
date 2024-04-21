@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66232ea962e9b8a3f3117b8e"
+  },
+  "code": "1",
+  "name": "Katipunan",
+  "phonenumber": "09179990000"
+},
+{
+  "_id": {
+    "$oid": "66232ea962e9b8a3f3117b8f"
+  },
+  "code": "2",
+  "name": "Tomas Morato",
+  "phonenumber": "09179990001"
+},
+{
+  "_id": {
+    "$oid": "66232ea962e9b8a3f3117b90"
+  },
+  "code": "3",
+  "name": "Eastwood",
+  "phonenumber": "09179990002"
+},
+{
+  "_id": {
+    "$oid": "66232ea962e9b8a3f3117b91"
+  },
+  "code": "4",
+  "name": "Tiendesitas",
+  "phonenumber": "09179990003"
+},
+{
+  "_id": {
+    "$oid": "66232ea962e9b8a3f3117b92"
+  },
+  "code": "5",
+  "name": "Arcovia",
+  "phonenumber": "09179990004"
+}]

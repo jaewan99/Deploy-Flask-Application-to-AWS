@@ -1,0 +1,8 @@
+{% include "header.html" %}
+        <h1>Branches</h1>
+
+        {% for branch in branch_list %}
+            <ul><a href="branchdetails?code={{branch["code"]}}">{{branch["name"]}}</a></ul>
+        {% endfor %}
+
+{% include "footer.html" %}

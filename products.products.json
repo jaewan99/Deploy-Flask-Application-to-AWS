@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "662328a262e9b8a3f3117b85"
+  },
+  "code": 100,
+  "name": "Americano",
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "662328a262e9b8a3f3117b86"
+  },
+  "code": 200,
+  "name": "Brewed Coffee",
+  "price": 132
+},
+{
+  "_id": {
+    "$oid": "662328a262e9b8a3f3117b87"
+  },
+  "code": 300,
+  "name": "Cappuccino",
+  "price": 144
+},
+{
+  "_id": {
+    "$oid": "662328a262e9b8a3f3117b88"
+  },
+  "code": 400,
+  "name": "Espresso",
+  "price": 144
+},
+{
+  "_id": {
+    "$oid": "662328a262e9b8a3f3117b89"
+  },
+  "code": 500,
+  "name": "Latte",
+  "price": 168
+},
+{
+  "_id": {
+    "$oid": "662328a262e9b8a3f3117b8a"
+  },
+  "code": 600,
+  "name": "Cold Brew",
+  "price": 240
+},
+{
+  "_id": {
+    "$oid": "66232ab962e9b8a3f3117b8b"
+  },
+  "code": 1000,
+  "name": "Tiramisu",
+  "price": 180
+},
+{
+  "_id": {
+    "$oid": "66232ab962e9b8a3f3117b8c"
+  },
+  "code": 1100,
+  "name": "Red Velvet",
+  "price": 156
+},
+{
+  "_id": {
+    "$oid": "66232ab962e9b8a3f3117b8d"
+  },
+  "code": 1200,
+  "name": "Mango Cream Pie",
+  "price": 240
+}]

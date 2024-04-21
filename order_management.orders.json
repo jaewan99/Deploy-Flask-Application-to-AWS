@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "66232e0fd0e88f5bc29cc7c9"
+  },
+  "username": "chums@example.com",
+  "orderdate": {
+    "$date": "2024-04-20T10:53:03.660Z"
+  },
+  "details": [
+    {
+      "code": "100",
+      "name": "Americano",
+      "qty": "2",
+      "subtotal": 300
+    },
+    {
+      "code": "500",
+      "name": "Latte",
+      "qty": "2",
+      "subtotal": 336
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "662332118fe7204d8cc6fa18"
+  },
+  "username": "chums@example.com",
+  "orderdate": {
+    "$date": "2024-04-20T11:10:09.336Z"
+  },
+  "details": [
+    {
+      "code": "100",
+      "name": "Americano",
+      "qty": 1,
+      "subtotal": 150
+    },
+    {
+      "code": "500",
+      "name": "Latte",
+      "qty": 1,
+      "subtotal": 168
+    }
+  ]
+}]
